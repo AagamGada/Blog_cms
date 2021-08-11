@@ -1,0 +1,13 @@
+[✓] Finish all the models for Blog, Review, and User
+[✓] Sign up the user and hash the password
+
+Public users
+[] Can only view published blogs and reviews
+
+Admin user
+[✓] Create a blog, delete, edit a blog 
+[] Create a user, delete a user or modify a user
+[✓] Delete any reviews from any user
+
+Normal user
+[] Add a review to the blogs and update or delete their own reviews
